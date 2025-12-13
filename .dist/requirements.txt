@@ -1,0 +1,7 @@
+
+---
+
+
+```txt
+# No external libraries required
+# Python version: 3.x
